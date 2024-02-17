@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
+  ['94710431498', 'THARIN', true],
+  ['94714959465', 'Tharin', true], 
   [''] 
 ] //Number of owners
 
@@ -50,16 +50,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
-global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
+global.botname = 'ᴛʜᴇ Ƭ_ʜ_ᴀ_ʀ_ɪ_ɴ-ʙᴏᴛ'
+global.premium = 'false'
+global.packname = 'Ƭ_ʜ_ᴀ_ʀ_ɪ_ɴ ⸸┃ᴮᴼᵀ' 
+global.author = '@Ƭ_ʜ_ᴀ_ʀ_ɪ_ɴ ⸸' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA'
+global.igfg = '▢ Follow on TikTok\nhttps://www.tiktok.com/@_maliya_official_01_\n' 
+global.dygp = 'https://chat.whatsapp.com/G8P6LerqgwhEYj6lOqxWa7'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
+global.fgyt = 'https://www.tiktok.com/@_maliya_official_01_'
+global.fgpyp = 'https://www.tiktok.com/@_maliya_official_01_'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
